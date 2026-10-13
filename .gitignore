@@ -1,0 +1,9 @@
+3 File sementara windows
+Thumbs.db
+Desktop.ini
+
+# File Konfigurasi Lokasi
+node_modules/
+
+# log
+*.log
